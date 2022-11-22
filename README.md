@@ -4,7 +4,6 @@ The aim is to build a predictive model and find out the sales of each product at
 
 A perfect project to learn Data Analytics and apply Machine Learning algorithms (Linear Regression, Random Forest Regressor, XG Boost) to predict the outlet production sales.
 
-Mini Project 2-A
 
 
 # Dataset Description 
@@ -72,20 +71,3 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 - XGBoost
 - Deployment
 
-
-
-
-
-
-
-# Contributors
-
-```
-o  MAYUR KYATHAM
-
-o  PRERNA SHAKWAR 
-
-o  UTSAV KUNTALWAD
-
-o  SRUSHTI SAWANT
- ```
